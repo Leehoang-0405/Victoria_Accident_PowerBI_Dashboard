@@ -30,6 +30,30 @@ The core problem is not a lack of data. It is a lack of usable data at the right
 
 ---
 
+## Results and Business Recommendations
+
+**1. Fatalities are rising even as total crashes fall**
+
+Fatalities increased 18.6% over 5 years while total crashes fell 6.2%, suggesting road safety resources should shift toward severity reduction programs rather than crash volume reduction. Fewer crashes does not mean safer roads if the crashes that do occur are more deadly.
+
+**2. Urban 60 km/h zones carry the highest crash burden**
+
+With 22,324 crashes recorded in 60 km/h zones, urban roads account for the largest share of incidents by a significant margin. Investment in urban road safety infrastructure, intersection design, and speed enforcement in these zones is likely to produce the greatest reduction in total crash numbers.
+
+**3. Geelong is the highest priority region for intervention**
+
+Among the top regions, Geelong recorded the highest fatality count (48) and the second highest serious injury count (1,576). Targeted regional programs and infrastructure audits in Geelong should be prioritised in the next funding cycle.
+
+**4. Alcohol enforcement programs are working**
+
+Alcohol-related crashes dropped 11.4% over 5 years, the strongest sustained improvement across all key metrics. This suggests existing enforcement and awareness programs are effective and should be maintained and expanded rather than defunded or deprioritised.
+
+**5. Single-year figures can be deeply misleading**
+
+Police attendance appeared to drop 50.3% year on year, which would normally trigger concern. Over 5 years, the decline was just 1.8%. This finding alone demonstrates the risk of making resource decisions based on one year of data and validates the need for a dashboard that presents both perspectives together.
+
+---
+
 ## Methodology
 
 ### Data Cleaning in Power Query
@@ -68,30 +92,6 @@ Claude (Anthropic) was used throughout this project as a practical productivity 
 | **Data Storytelling** | Dashboard designed specifically for an executive audience, with YoY and 5-year views presented side by side to prevent single-year misinterpretation |
 | **Stakeholder Communication** | Translated complex multi-table government crash data into plain language KPIs and visuals accessible to a non-technical executive audience |
 | **AI Tools (Claude)** | Applied generative AI across mockup generation, business requirement planning, DAX troubleshooting, and project documentation |
-
----
-
-## Results and Business Recommendations
-
-**1. Fatalities are rising even as total crashes fall**
-
-Fatalities increased 18.6% over 5 years while total crashes fell 6.2%, suggesting road safety resources should shift toward severity reduction programs rather than crash volume reduction. Fewer crashes does not mean safer roads if the crashes that do occur are more deadly.
-
-**2. Urban 60 km/h zones carry the highest crash burden**
-
-With 22,324 crashes recorded in 60 km/h zones, urban roads account for the largest share of incidents by a significant margin. Investment in urban road safety infrastructure, intersection design, and speed enforcement in these zones is likely to produce the greatest reduction in total crash numbers.
-
-**3. Geelong is the highest priority region for intervention**
-
-Among the top regions, Geelong recorded the highest fatality count (48) and the second highest serious injury count (1,576). Targeted regional programs and infrastructure audits in Geelong should be prioritised in the next funding cycle.
-
-**4. Alcohol enforcement programs are working**
-
-Alcohol-related crashes dropped 11.4% over 5 years, the strongest sustained improvement across all key metrics. This suggests existing enforcement and awareness programs are effective and should be maintained and expanded rather than defunded or deprioritised.
-
-**5. Single-year figures can be deeply misleading**
-
-Police attendance appeared to drop 50.3% year on year, which would normally trigger concern. Over 5 years, the decline was just 1.8%. This finding alone demonstrates the risk of making resource decisions based on one year of data and validates the need for a dashboard that presents both perspectives together.
 
 ---
 
