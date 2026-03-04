@@ -6,7 +6,7 @@
 
 Victoria's Department of Transport and Planning oversees road safety across 7 regions, covering 66,173 crashes, 1,471 fatalities, and 32,419 serious injuries recorded over 5 years. Despite the volume of data collected through Victoria Police reports and hospital injury records, there was no single consolidated view that allowed executives to track performance trends, compare regions, and identify where road safety resources were most urgently needed.
 
-                  <img width="622" height="612" alt="Dashboard_ Road Safety Executive" src="https://github.com/user-attachments/assets/4fecae40-b563-4eb7-9cb9-8112378a3526" />
+<img width="979" height="959" alt="Screenshot 2026-03-04 at 3 54 14 PM" src="https://github.com/user-attachments/assets/18a1ffc6-92ad-4492-a60f-596cf1999abb" />
 
 ### The Failing Decision
 
